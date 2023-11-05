@@ -1,0 +1,12 @@
+{
+  "skyhud-compassmarkerart": "interface/skyhud/compassmarkerart.swf",
+  "skyui-mapmarkerart": "interface/skyui/mapmarkerart.swf",
+  "comap/brumaresources": "MapMarkers/Resources/brumaresources.swf",
+  "comap/comapresources": "MapMarkers/Resources/comapresources.swf",
+  "comap/cotnresources": "MapMarkers/Resources/cotnresources.swf",
+  "comap/holdsresources": "MapMarkers/Resources/holdsresources.swf",
+  "comap/lotdresources": "MapMarkers/Resources/lotdresources.swf",
+  "comap/maslearesources": "MapMarkers/Resources/maslearesources.swf",
+  "comap/wtresources": "MapMarkers/Resources/wtresources.swf",
+  "comap/obscuredmarkerart": "MapMarkers/Resources/obscuredundiscovered/obscuredmarkerart.swf"
+}
